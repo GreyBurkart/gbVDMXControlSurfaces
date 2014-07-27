@@ -11,10 +11,11 @@ Required [VDMX](http://www.vidvox.com) build 8.2.2.3 and up for JSON import/expo
 
 ## Thus Far…
 
-* SideController (custom portrait-mode layout)
-* Korg nanoKONTROL2 (with custom mapping)
-* KMI QuNeo (with custom mapping)
-* FaderFoxMicroModul8 (factory mapping, mostly)
-* M-Audio X-Session Pro (factory mapping)
+* SideController (custom portrait-mode layout, OSC)
+* Korg nanoKONTROL2 (with custom MIDI mapping)
+* KMI QuNeo (with custom MIDI mapping)
+* FaderFoxMicroModul8 (1 layer of factory mapping, OSC and MIDI)
+* M-Audio X-Session Pro (factory mapping, OSC and MIDI)
+* Electrix Tweaker (OSC only)
 
 [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
